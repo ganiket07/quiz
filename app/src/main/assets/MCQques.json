@@ -1,0 +1,431 @@
+{
+  "Geography": [
+    {
+      "ques": "What is the capital of Australia?",
+      "opt1": "Sydney",
+      "opt2": "Melbourne",
+      "opt3": "Canberra",
+      "opt4": "Brisbane",
+      "ans": 3
+    },
+    {
+      "ques": "What is the largest country in the world by area?",
+      "opt1": "Canada",
+      "opt2": "China",
+      "opt3": "Russia",
+      "opt4": "United States",
+      "ans": 3
+    },
+    {
+      "ques": "What is the name of the highest mountain in the world?",
+      "opt1": "Mount Everest",
+      "opt2": "K2",
+      "opt3": "Kangchenjunga",
+      "opt4": "Lhotse",
+      "ans": 1
+    },
+    {
+      "ques": "Which ocean is the largest in the world?",
+      "opt1": "Atlantic Ocean",
+      "opt2": "Indian Ocean",
+      "opt3": "Arctic Ocean",
+      "opt4": "Pacific Ocean",
+      "ans": 4
+    },
+    {
+      "ques": "Which river is the longest in the world?",
+      "opt1": "Nile",
+      "opt2": "Amazon",
+      "opt3": "Yangtze",
+      "opt4": "Mississippi",
+      "ans": 1
+    }
+  ],
+  "History": [
+    {
+      "ques": "Who was the first president of the United States?",
+      "opt1": "Thomas Jefferson",
+      "opt2": "George Washington",
+      "opt3": "John Adams",
+      "opt4": "Abraham Lincoln",
+      "ans": 2
+    },
+    {
+      "ques": "Which year did World War II end?",
+      "opt1": "1943",
+      "opt2": "1944",
+      "opt3": "1945",
+      "opt4": "1946",
+      "ans": 3
+    },
+    {
+      "ques": "Who was the first man to walk on the moon?",
+      "opt1": "Buzz Aldrin",
+      "opt2": "Neil Armstrong",
+      "opt3": "Yuri Gagarin",
+      "opt4": "Alan Shepard",
+      "ans": 2
+    },
+    {
+      "ques": "Which ancient civilization built the Great Wall of China?",
+      "opt1": "Egyptians",
+      "opt2": "Greeks",
+      "opt3": "Romans",
+      "opt4": "Chinese",
+      "ans": 4
+    },
+    {
+      "ques": "Which country did Christopher Columbus sail for?",
+      "opt1": "Spain",
+      "opt2": "Portugal",
+      "opt3": "France",
+      "opt4": "Italy",
+      "ans": 1
+    }
+  ],
+  "Science": [
+    {
+      "ques": "Which is the most abundant gas in the Earth's atmosphere?",
+      "opt1": "Oxygen",
+      "opt2": "Carbon dioxide",
+      "opt3": "Nitrogen",
+      "opt4": "Hydrogen",
+      "ans": 3
+    },
+    {
+      "ques": "What is the smallest unit of life?",
+      "opt1": "Atom",
+      "opt2": "Molecule",
+      "opt3": "Cell",
+      "opt4": "Organism",
+      "ans": 3
+    },
+    {
+      "ques": "What is the biggest organ in the human body?",
+      "opt1": "Liver",
+      "opt2": "Lungs",
+      "opt3": "Heart",
+      "opt4": "Skin",
+      "ans": 4
+    },
+    {
+      "ques": "What is the process of converting a solid directly into a gas called?",
+      "opt1": "Sublimation",
+      "opt2": "Melting",
+      "opt3": "Freezing",
+      "opt4": "Condensation",
+      "ans": 1
+    },
+    {
+      "ques": "What is the unit of measurement for electric current?",
+      "opt1": "Watt",
+      "opt2": "Ohm",
+      "opt3": "Volt",
+      "opt4": "Ampere",
+      "ans": 4
+    }
+  ],
+  "Literature": [
+    {
+      "ques": "Who is the author of the Harry Potter series?",
+      "opt1": "J.K. Rowling",
+      "opt2": "Stephen King",
+      "opt3": "George R.R. Martin",
+      "opt4": "Dan Brown",
+      "ans": 1
+    },
+    {
+      "ques": "Which Shakespearean play features the characters of Romeo and Juliet?",
+      "opt1": "Macbeth",
+      "opt2": "Hamlet",
+      "opt3": "Othello",
+      "opt4": "Romeo and Juliet",
+      "ans": 4
+    },
+    {
+      "ques": "What is the title of Harper Lee's only published novel?",
+      "opt1": "To Kill a Mockingbird",
+      "opt2": "The Catcher in the Rye",
+      "opt3": "Animal Farm",
+      "opt4": "1984",
+      "ans": 1
+    },
+    {
+      "ques": "Who is the author of the book 'The Hitchhiker's Guide to the Galaxy'?",
+      "opt1": "Douglas Adams",
+      "opt2": "J.R.R. Tolkien",
+      "opt3": "C.S. Lewis",
+      "opt4": "George Orwell",
+      "ans": 1
+    },
+    {
+      "ques": "Which American author wrote 'The Great Gatsby'?",
+      "opt1": "Ernest Hemingway",
+      "opt2": "F. Scott Fitzgerald",
+      "opt3": "Mark Twain",
+      "opt4": "John Steinbeck",
+      "ans": 2
+    }
+  ],
+  "Art and Culture": [
+    {
+      "ques": "Who painted the famous artwork 'The Starry Night'?",
+      "opt1": "Vincent van Gogh",
+      "opt2": "Pablo Picasso",
+      "opt3": "Leonardo da Vinci",
+      "opt4": "Michelangelo",
+      "ans": 1
+    },
+    {
+      "ques": "Who is the famous playwright and author of 'A Streetcar Named Desire'?",
+      "opt1": "Tennessee Williams",
+      "opt2": "Arthur Miller",
+      "opt3": "Edward Albee",
+      "opt4": "Samuel Beckett",
+      "ans": 1
+    },
+    {
+      "ques": "Which famous composer is known for composing the 9th Symphony?",
+      "opt1": "Ludwig van Beethoven",
+      "opt2": "Johann Sebastian Bach",
+      "opt3": "Wolfgang Amadeus Mozart",
+      "opt4": "Franz Schubert",
+      "ans": 1
+    },
+    {
+      "ques": "Who is the author of the popular graphic novel series 'Watchmen'?",
+      "opt1": "Alan Moore",
+      "opt2": "Frank Miller",
+      "opt3": "Grant Morrison",
+      "opt4": "Neil Gaiman",
+      "ans": 1
+    },
+    {
+      "ques": "Which artist is known for the art movement 'Pop Art'?",
+      "opt1": "Andy Warhol",
+      "opt2": "Pablo Picasso",
+      "opt3": "Salvador Dali",
+      "opt4": "Vincent van Gogh",
+      "ans": 1
+    }
+  ],
+  "Music": [
+    {
+      "ques": "Who is known as the King of Pop?",
+      "opt1": "Elvis Presley",
+      "opt2": "Michael Jackson",
+      "opt3": "Prince",
+      "opt4": "David Bowie",
+      "ans": 2
+    },
+    {
+      "ques": "Which composer was known as the 'Piano Poet'?",
+      "opt1": "Ludwig van Beethoven",
+      "opt2": "Wolfgang Amadeus Mozart",
+      "opt3": "Frédéric Chopin",
+      "opt4": "Johann Sebastian Bach",
+      "ans": 3
+    },
+    {
+      "ques": "Who wrote the song 'Bohemian Rhapsody'?",
+      "opt1": "Freddie Mercury",
+      "opt2": "David Bowie",
+      "opt3": "John Lennon",
+      "opt4": "Paul McCartney",
+      "ans": 1
+    },
+    {
+      "ques": "Which musical genre originated in Jamaica in the late 1960s?",
+      "opt1": "Reggae",
+      "opt2": "Ska",
+      "opt3": "Dub",
+      "opt4": "Rocksteady",
+      "ans": 2
+    },
+    {
+      "ques": "Which of the following is not a member of the Beatles?",
+      "opt1": "John Lennon",
+      "opt2": "Paul McCartney",
+      "opt3": "George Harrison",
+      "opt4": "Elton John",
+      "ans": 4
+    }
+  ],
+  "Sports": [
+    {
+      "ques": "Which country has won the most FIFA World Cup titles?",
+      "opt1": "Brazil",
+      "opt2": "Germany",
+      "opt3": "Argentina",
+      "opt4": "Italy",
+      "ans": 1
+    },
+    {
+      "ques": "Who is the only boxer to win world titles in eight different weight classes?",
+      "opt1": "Mike Tyson",
+      "opt2": "Floyd Mayweather Jr.",
+      "opt3": "Manny Pacquiao",
+      "opt4": "Sugar Ray Leonard",
+      "ans": 3
+    },
+    {
+      "ques": "Which tennis player has won the most Grand Slam titles in men's singles?",
+      "opt1": "Roger Federer",
+      "opt2": "Rafael Nadal",
+      "opt3": "Novak Djokovic",
+      "opt4": "Pete Sampras",
+      "ans": 1
+    },
+    {
+      "ques": "Which country has won the most Olympic gold medals?",
+      "opt1": "Russia",
+      "opt2": "China",
+      "opt3": "United States",
+      "opt4": "Germany",
+      "ans": 3
+    },
+    {
+      "ques": "Which football player has won the most Ballon d'Or awards?",
+      "opt1": "Lionel Messi",
+      "opt2": "Cristiano Ronaldo",
+      "opt3": "Zinedine Zidane",
+      "opt4": "Ronaldinho",
+      "ans": 1
+    }
+  ],
+  "Movies and TV": [
+    {
+      "ques": "Which actor played the role of 'Walter White' in the TV series 'Breaking Bad'?",
+      "opt1": "Bryan Cranston",
+      "opt2": "Aaron Paul",
+      "opt3": "Giancarlo Esposito",
+      "opt4": "Dean Norris",
+      "ans": 1
+    },
+    {
+      "ques": "Which film won the 'Best Picture' award at the 2020 Oscars?",
+      "opt1": "Parasite",
+      "opt2": "1917",
+      "opt3": "Joker",
+      "opt4": "Once Upon a Time in Hollywood",
+      "ans": 1
+    },
+    {
+      "ques": "In the TV series 'Friends', what is the name of Ross's pet monkey?",
+      "opt1": "Marcel",
+      "opt2": "Joey",
+      "opt3": "Gunter",
+      "opt4": "Chandler",
+      "ans": 1
+    },
+    {
+      "ques": "Which actor played the character 'Iron Man' in the Marvel Cinematic Universe?",
+      "opt1": "Robert Downey Jr.",
+      "opt2": "Chris Evans",
+      "opt3": "Mark Ruffalo",
+      "opt4": "Chris Hemsworth",
+      "ans": 1
+    },
+    {
+      "ques": "Which TV series features the character of 'Eleven' with psychic powers?",
+      "opt1": "Stranger Things",
+      "opt2": "Breaking Bad",
+      "opt3": "Game of Thrones",
+      "opt4": "The Walking Dead",
+      "ans": 1
+    }
+  ],
+  "Technology": [
+    {
+      "ques": "What does the acronym 'URL' stand for?",
+      "opt1": "Universal Resource Locator",
+      "opt2": "Universal Remote Link",
+      "opt3": "Ultra Rare Language",
+      "opt4": "United Research Laboratories",
+      "ans": 1
+    },
+    {
+      "ques": "Which company developed the Java programming language?",
+      "opt1": "Microsoft",
+      "opt2": "Apple",
+      "opt3": "Google",
+      "opt4": "Sun Microsystems",
+      "ans": 4
+    },
+    {
+      "ques": "What does the acronym 'HTML' stand for?",
+      "opt1": "Hyperlinks and Text Markup Language",
+      "opt2": "Hypertext Markup Language",
+      "opt3": "Hyperlink Text Management Language",
+      "opt4": "Hypertagging Markup Language",
+      "ans": 2
+    },
+    {
+      "ques": "What does the acronym 'HTTP' stand for?",
+      "opt1": "Hyperlinks Text Transfer Protocol",
+      "opt2": "HyperText Transport Protocol",
+      "opt3": "HyperText Transfer Package",
+      "opt4": "Hypertext Transfer Protocol",
+      "ans": 4
+    },
+    {
+      "ques": "Which of the following is not a type of computer keyboard?",
+      "opt1": "QWERTY",
+      "opt2": "AZERTY",
+      "opt3": "QWERTZ",
+      "opt4": "MNOPU",
+      "ans": 4
+    }
+  ],
+  "General Knowledge": [
+    {
+      "ques": "What is the capital of Australia?",
+      "opt1": "Sydney",
+      "opt2": "Melbourne",
+      "opt3": "Brisbane",
+      "opt4": "Canberra",
+      "ans": 4
+    },
+    {
+      "ques": "What is the name of the first man to walk on the moon?",
+      "opt1": "Neil Armstrong",
+      "opt2": "Buzz Aldrin",
+      "opt3": "Michael Collins",
+      "opt4": "Yuri Gagarin",
+      "ans": 1
+    },
+    {
+      "ques": "What is the smallest country in the world?",
+      "opt1": "Vatican City",
+      "opt2": "Monaco",
+      "opt3": "Nauru",
+      "opt4": "Tuvalu",
+      "ans": 1
+    },
+    {
+      "ques": "What is the currency of Japan?",
+      "opt1": "Yen",
+      "opt2": "Dollar",
+      "opt3": "Euro",
+      "opt4": "Pound",
+      "ans": 1
+    },
+    {
+      "ques": "Who is the current Prime Minister of Canada?",
+      "opt1": "Justin Trudeau",
+      "opt2": "Stephen Harper",
+      "opt3": "Paul Martin",
+      "opt4": "Jean Chrétien",
+      "ans": 1
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,223 @@
+{
+    "Geography": [
+      {
+        "ques": "The Amazon River flows through Brazil.",
+        "ans": 1
+      },
+      {
+        "ques": "The Great Barrier Reef is located in the Atlantic Ocean.",
+        "ans": 2
+      },
+      {
+        "ques": "The capital of Spain is Madrid.",
+        "ans": 1
+      },
+      {
+        "ques": "The highest mountain peak in Africa is Kilimanjaro.",
+        "ans": 1
+      },
+      {
+        "ques": "The Great Wall of China was built during the Ming dynasty.",
+        "ans": 1
+      }
+    ],
+    "History": [
+      {
+        "ques": "Napoleon Bonaparte was the first emperor of France.",
+        "ans": 2
+      },
+      {
+        "ques": "The Magna Carta was signed in the 12th century.",
+        "ans": 2
+      },
+      {
+        "ques": "The first successful airplane flight was made by the Wright brothers.",
+        "ans": 1
+      },
+      {
+        "ques": "The United States declared independence from Great Britain in 1776.",
+        "ans": 1
+      },
+      {
+        "ques": "The Roman Empire fell in the 5th century AD.",
+        "ans": 1
+      }
+    ],
+    "Science": [
+      {
+        "ques": "The Earth is the only planet in our solar system that has a moon.",
+        "ans": 2
+      },
+      {
+        "ques": "Light travels faster than sound.",
+        "ans": 1
+      },
+      {
+        "ques": "An atom is made up of protons, neutrons, and electrons.",
+        "ans": 1
+      },
+      {
+        "ques": "The human body has four lungs.",
+        "ans": 2
+      },
+      {
+        "ques": "Water boils at a temperature of 100 degrees Celsius.",
+        "ans": 1
+      }
+    ],
+    "Literature": [
+      {
+        "ques": "William Shakespeare wrote 'To Kill a Mockingbird'.",
+        "ans": 2
+      },
+      {
+        "ques": "The 'Harry Potter' series was written by J.K. Rowling.",
+        "ans": 1
+      },
+      {
+        "ques": "Charles Dickens wrote 'Great Expectations'.",
+        "ans": 1
+      },
+      {
+        "ques": "The protagonist of 'The Catcher in the Rye' is Holden Caulfield.",
+        "ans": 1
+      },
+      {
+        "ques": "Harper Lee wrote 'To Kill a Mockingbird'.",
+        "ans": 1
+      }
+    ],
+    "Art and Culture": [
+      {
+        "ques": "The Mona Lisa was painted by Vincent van Gogh.",
+        "ans": 2
+      },
+      {
+        "ques": "The Sistine Chapel ceiling was painted by Michelangelo.",
+        "ans": 1
+      },
+      {
+        "ques": "The composer of 'The Four Seasons' was Antonio Vivaldi.",
+        "ans": 1
+      },
+      {
+        "ques": "The 'David' statue was sculpted by Michelangelo.",
+        "ans": 1
+      },
+      {
+        "ques": "The 'Starry Night' painting was created by Vincent van Gogh.",
+        "ans": 1
+      }
+    ],
+    "Music": [
+      {
+        "ques": "The Beatles were formed in Liverpool, England.",
+        "ans": 1
+      },
+      {
+        "ques": "Beethoven composed the 9th Symphony.",
+        "ans": 1
+      },
+      {
+        "ques": "Elvis Presley was known as the 'King of Rock and Roll'.",
+        "ans": 1
+      },
+      {
+        "ques": "Johann Sebastian Bach was a composer from the Romantic era.",
+        "ans": 2
+      },
+      {
+        "ques": "Bob Dylan was awarded the Nobel Prize in Literature in 2016.",
+        "ans": 1
+      }
+    ],
+    "Sports": [
+      {
+        "ques": "Soccer is the most popular sport in the world.",
+        "ans": 1
+      },
+      {
+        "ques": "Usain Bolt is a world-record holder in the 1500m race.",
+        "ans": 2
+      },
+      {
+        "ques": "Michael Jordan is widely considered to be the greatest basketball player of all time.",
+        "ans": 1
+      },
+      {
+        "ques": "Rafael Nadal is a tennis player from Spain.",
+        "ans": 1
+      },
+      {
+        "ques": "The Super Bowl is the championship game of the National Basketball Association.",
+        "ans": 2
+      }
+    ],
+    "Movies and TV": [
+      {
+        "ques": "The Godfather is a movie directed by Martin Scorsese.",
+        "ans": 2
+      },
+      {
+        "ques": "The TV series Breaking Bad is about a high school teacher who becomes a drug dealer.",
+        "ans": 1
+      },
+      {
+        "ques": "The movie Titanic was directed by Steven Spielberg.",
+        "ans": 2
+      },
+      {
+        "ques": "The TV series Friends is set in New York City.",
+        "ans": 1
+      },
+      {
+        "ques": "The movie Forrest Gump stars Tom Cruise.",
+        "ans": 2
+      }
+    ],
+    "Technology": [
+      {
+        "ques": "The iPhone was first released in 2007.",
+        "ans": 1
+      },
+      {
+        "ques": "Mark Zuckerberg is the CEO of Google.",
+        "ans": 2
+      },
+      {
+        "ques": "The first computer mouse was invented by Douglas Engelbart.",
+        "ans": 1
+      },
+      {
+        "ques": "The World Wide Web was invented by Tim Berners-Lee.",
+        "ans": 1
+      },
+      {
+        "ques": "The first successful search engine was called Google.",
+        "ans": 2
+      }
+    ],
+    "General Knowledge": [
+      {
+        "ques": "The Statue of Liberty was a gift from France to the United States.",
+        "ans": 1
+      },
+      {
+        "ques": "The currency of Japan is the yen.",
+        "ans": 1
+      },
+      {
+        "ques": "The Taj Mahal is located in Agra, India.",
+        "ans": 1
+      },
+      {
+        "ques": "The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World.",
+        "ans": 1
+      },
+      {
+        "ques": "The Declaration of Independence was signed on July 4th, 1776.",
+        "ans": 1
+      }
+    ]
+  }
+

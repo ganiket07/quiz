@@ -1,0 +1,35 @@
+{"questions":[
+  {
+    "ques": "Which is the capital of India?",
+    "opt1": "Delhi",
+    "opt2": "Mumbai",
+    "opt3": "Kolkata",
+    "opt4": "Bangalore",
+    "ans": 1
+  },
+  {
+    "ques": "Which has the highest population in India?",
+    "opt1": "Delhi",
+    "opt2": "Mumbai",
+    "opt3": "Kolkata",
+    "opt4": "Bangalore",
+    "ans": 3
+  },
+  {
+    "ques": "Which one is the IT hub of India?",
+    "opt1": "Delhi",
+    "opt2": "Mumbai",
+    "opt3": "Kolkata",
+    "opt4": "Bangalore",
+    "ans": 4
+  },
+  {
+    "ques": "Which one is the wealthiest city of India?",
+    "opt1": "Delhi",
+    "opt2": "Mumbai",
+    "opt3": "Kolkata",
+    "opt4": "Bangalore",
+    "ans": 2
+  }
+]
+}

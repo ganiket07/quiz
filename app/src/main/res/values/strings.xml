@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="startQuiz">Start Quiz</string>
+    <string name="mcqText">MCQ</string>
+    <string name="tfText">T/F</string>
+    <string name="playQuiz">Play Quiz</string>
+    <string name="trueString">True</string>
+    <string name="falseString">False</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="open_nav">Open Navigation Bar</string>
+    <string name="close_nav">Close Navigation Bar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_quiz">Default Quiz</string>
+
+</resources>

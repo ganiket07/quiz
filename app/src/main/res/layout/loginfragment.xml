@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:backgroundTint="@color/backcolour">
+
+    <TextView
+        android:id="@+id/signupEmailTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Email"
+        android:textColor="@color/textcolour"/>
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:textColor="@color/textcolour"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/password_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Password"
+        android:textColor="@color/textcolour"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:inputType="textPassword"
+        android:textColor="@color/textcolour"/>
+
+    <TextView
+        android:id="@+id/signup_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Sign up here."
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:clickable="true"
+        android:textColor="@color/textcolour"/>
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"/>
+
+</LinearLayout>
